@@ -27,11 +27,11 @@ The above dataset were collected from : [Machine Learning Mastery](https://machi
 ### predicting the age of abalone given objective measures of individuals
 
 # 8. Ionosphere
-###
+### prediction of structure in the atmosphere given radar returns targeting free electrons in the ionosphere
 
 # 9. Wheet Seeds
-###
+### prediction of species given measurements of seeds from different varieties of wheat
 
 # 10. Boston House
-###
+### predicting housing prices in Boston
 
